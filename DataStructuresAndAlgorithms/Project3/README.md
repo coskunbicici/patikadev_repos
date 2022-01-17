@@ -3,3 +3,6 @@
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
+Cevap görsel olarak aşağıdaki gibi çözülmüştür.
+
+![Foto](https://raw.githubusercontent.com/coskunbicici/patikadev_repos/master/DataStructuresAndAlgorithms/Project3/binary_search_tree_ss.png)
